@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm SweetHeat
 
-Exploring **AI security**, **prompt injection**, and **LLM red teaming**.  
+Curating and sharing insights on LLM security, alignment, and AI red teaming — blending field notes with research-style reports. 
 
 > All content is for **educational/research** purposes only.
 
